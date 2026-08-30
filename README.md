@@ -11,12 +11,12 @@ Finally there is the graph represented through an adjacency matrix.
 
 For a graph of 4 nodes, 2 colors, min size 3 the file would look something like: 
 
-4 3 2
-1
-2
-1
-1
-0 0 1 1
-0 0 1 0
-1 1 0 1
-1 0 1 0
+4 3 2 <br />
+1 <br />
+2 <br />
+1 <br />
+1 <br />
+0 0 1 1 <br />
+0 0 1 0 <br />
+1 1 0 1 <br />
+1 0 1 0 <br />
